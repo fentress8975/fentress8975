@@ -1,10 +1,9 @@
-Кодер одиночка, основной проект на данный момент https://github.com/fentress8975/ShipSpaceGame (в данный момент делаю скелет игры). Пишу в свободное время, можете по вопросам писать мне в дискорд. Рад найти работу.
+Кодер одиночка
 
 
-Зачем? Ну ладно..
 - 👋 Hi, I’m @fentress8975
 - 👀 I’m interested in double cheeseburger
-- 🌱 I’m currently learning C#, Unity, Blender(later)
+- 🌱 I’m currently learning C#, Unity, Blender
 - 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me ((Discord)generallegion#8548)
 
